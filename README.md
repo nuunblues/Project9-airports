@@ -3,7 +3,7 @@ This is our project 9 repository with are Jupiter notebook and links to the obse
 This is the link to our observable which includes the world map visualization and the 3D rotating globe visualization.
 https://observablehq.com/d/8982e110062641a0
 
-Also uploaded here are our two different data sets the airports and flight times the airports one was used to make the observables map and the flights was used in our Jupiter code.
+Also uploaded here are our two different data sets the airports and flight times the airports one was used to make the observables map and the flights was used in our Jupiter code. Our flight data is from Kaggle who got it from the US international air passenger and freight statistics report. The other is from GitHub from openflight.org.
 
 These were are four questions:
 
